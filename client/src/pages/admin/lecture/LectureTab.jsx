@@ -12,7 +12,7 @@ import { useParams } from 'react-router-dom'
 import { Loader2 } from 'lucide-react'
 
 
-const MEDIA_API="http://localhost:8080/api/v1/media";
+const MEDIA_API="https://lms-learning-management-system-6h9z.onrender.com/api/v1/media";
 
 const LectureTab = () => {
    
